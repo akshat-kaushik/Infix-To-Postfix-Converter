@@ -2,7 +2,7 @@
 <BR>
 DISCLAIMER : I hve made this with if-else & conditional statement but if you guy know how to make it more efficent or have any suggestions on this, then please let me know. 
 <BR>
-This is a program to convert infix notation to postfix.
+This is a program into convert infix notation to postfix.
 <BR>
 Q1: What is Infix Notation ?<BR>
 Ans: Infix notation is a way of writing mathematical or logical expressions where the operator (such as +, -, *, /) is placed between the operands. For example ( A + B ) * C - D / E
