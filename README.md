@@ -11,7 +11,7 @@ Ans: Postfix notation is a way of writing mathematical expressions where the ope
 Q3: Why use Postfix Notation ?
 Ans: Postfix notation (Reverse Polish Notation) is used because of its practical advantages, especially in computing and mathematical evaluation. Here's why it stands out:
 Key Reasons to Use Postfix Notation:
-1. No Need for Parentheses 🎯
+1. No Need for Parentheses 
 
 In infix notation, we need parentheses to show which part of the expression to solve first.
 
@@ -23,7 +23,7 @@ Infix: ( A + B ) * C
 
 Postfix: A B + C *
 
-2. Easier for Computers to Solve 💻
+2. Easier for Computers to Solve 
 
 Computers can evaluate postfix expressions easily using a stack.
 
@@ -39,13 +39,13 @@ Step 4: Push 4
 Step 5: Apply '*' → (5 * 4 = 20), push 20
 Result: 20
 
-3. No Confusion in Solving Equations 🤔
+3. No Confusion in Solving Equations 
 
 In infix notation, we have to follow precedence rules (like solving multiplication before addition).
 
 In postfix notation, we simply solve from left to right, making it easier to follow.
 
-4. Used in Compilers & Calculators ⚡
+4. Used in Compilers & Calculators 
 
 Many programming languages convert infix expressions into postfix before solving them.
 
@@ -55,3 +55,5 @@ Q4: Conclusion ?
 Ans: Postfix notation (Reverse Polish Notation) is a simple and efficient way to write and solve mathematical expressions. Unlike infix notation, it doesn’t need parentheses or rules for operator precedence because the order of operations is always clear. This makes it easier for computers and calculators to process.
 It’s commonly used in programming, compilers, and embedded systems because it’s faster and avoids confusion. While humans may find infix notation easier to read, postfix notation is better for machines because it works with stacks, which are simple to use for calculations.
 Overall, postfix notation helps make calculations faster and simpler, especially for computers.
+<BR>
+====================THANKYOU====================
