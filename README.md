@@ -1,5 +1,7 @@
 ====================INFIX-TO-POSTFIX-CONVERTOR====================
 <BR>
+DISCLAIMER : I hve made this with if-else & conditional statement but if you guy know how to make it more efficent or have any suggestions on this, then please let me know. 
+<BR>
 This is a program to convert infix notation to postfix.
 <BR>
 Q1: What is Infix Notation ?<BR>
