@@ -1,6 +1,6 @@
 ====================INFIX-TO-POSTFIX-CONVERTOR====================
 <BR>
-DISCLAIMER : I hve made this with if-else & conditional statement but if you guy know how to make it more efficent or have any suggestions on this, then please let me know. 
+DISCLAIMER : I have made this with stack & conditional statement but if you guy know how to make it more efficent or have any suggestions on this, then please let me know. 
 <BR>
 This is a program into convert infix notation to postfix.
 <BR>
