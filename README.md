@@ -1,73 +1,69 @@
 <h1>INFIX-TO-POSTFIX-CONVERTOR</h1>
 <BR>
-<<<<<<< HEAD
 <p>This is a program to convert infix notation to postfix.</p>
 <BR>
+<h2>What is Infix Notation</h2>
+<BR>
+<p>Infix notation is a way of writing mathematical or logical expressions where the operator (such as +, -, *, /) is placed between the operands. For example ( A + B ) * C - D / E.</p>
+<BR>
+<h2>What is Postfix Notation</h2>
+<BR>
+<p>Postfix notation is a way of writing mathematical expressions where the operator appears after the operands. This eliminates the need for parentheses and operator precedence rules, making it easier for computers to evaluate expressions using a stack. For example A B + C * D E / -.</p>
+<BR>
+<h2>Why use Postfix Notation</h2>
+<BR>
+<p>Postfix notation (Reverse Polish Notation) is used because of its practical advantages, especially in computing and mathematical evaluation. Here's why it stands out:</p>
 <p>
-Q1: What is Infix Notation ?
-=======
-DISCLAIMER : I have made this with stack & conditional statement but if you guy know how to make it more efficent or have any suggestions on this, then please let me know. 
-<BR>
-This is a program into convert infix notation to postfix.
-<BR>
-Q1: What is Infix Notation ?<BR>
->>>>>>> b0dc045247dedb10a5fbf1661abcaf05dba44195
-Ans: Infix notation is a way of writing mathematical or logical expressions where the operator (such as +, -, *, /) is placed between the operands. For example ( A + B ) * C - D / E
-<BR>
-Q2: What is Postfix Notation ?<BR>
-Ans: Postfix notation is a way of writing mathematical expressions where the operator appears after the operands. This eliminates the need for parentheses and operator precedence rules, making it easier for computers to evaluate expressions using a stack. For example A B + C * D E / -
-<BR>
-Q3: Why use Postfix Notation ?<BR>
-Ans: Postfix notation (Reverse Polish Notation) is used because of its practical advantages, especially in computing and mathematical evaluation. Here's why it stands out:
-Key Reasons to Use Postfix Notation:
-1. No Need for Parentheses 
-
-In infix notation, we need parentheses to show which part of the expression to solve first.
-
-In postfix notation, the order of operations is already clear, so we don’t need parentheses.
+Key Reasons to Use Postfix Notation:<br>
+<ol>
+<li>No Need for Parentheses<br> 
+<ul>
+<li>In infix notation, we need parentheses to show which part of the expression to solve first.</li>
+<li>In postfix notation, the order of operations is already clear, so we don’t need parentheses.
 
 Example:
 
 Infix: ( A + B ) * C
 
-Postfix: A B + C *
-
-2. Easier for Computers to Solve 
-
-Computers can evaluate postfix expressions easily using a stack.
-
-No need for complex rules about operator precedence.
-
-Example (Step-by-Step Stack Evaluation):
-
-Expression: 2 3 + 4 *
-Step 1: Push 2
-Step 2: Push 3
-Step 3: Apply '+' → (2 + 3 = 5), push 5
-Step 4: Push 4
-Step 5: Apply '*' → (5 * 4 = 20), push 20
-Result: 20
-
-3. No Confusion in Solving Equations 
-
-In infix notation, we have to follow precedence rules (like solving multiplication before addition).
-
-In postfix notation, we simply solve from left to right, making it easier to follow.
-
-4. Used in Compilers & Calculators 
-
-Many programming languages convert infix expressions into postfix before solving them.
-
-Some scientific calculators (like HP calculators) use postfix notation because it's simpler to process.
-<<<<<<< HEAD
+Postfix: A B + C *</li>
+</ul>
+</li>
+<li>Easier for Computers to Solve<br>
+<ul>
+<li>Computers can evaluate postfix expressions easily using a stack.</li>
+<li>No need for complex rules about operator precedence.</li>
+<li>
+<li>Example (Step-by-Step Stack Evaluation):</li>
+<ul>
+<li>Expression: 2 3 + 4 *</li>
+<li>Step 1: Push 2</li>
+<li>Step 2: Push 3</li>
+<li>Step 3: Apply '+' → (2 + 3 = 5), push 5</li>
+<li>Step 4: Push 4</li>
+<li>Step 5: Apply '*' → (5 * 4 = 20), push 20</li>
+<li>Result: 20</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>No Confusion in Solving Equations<br> 
+<ul>
+<li>In infix notation, we have to follow precedence rules (like solving multiplication before addition).</li>
+<li>In postfix notation, we simply solve from left to right, making it easier to follow.</li>
+</ul>
+</li>
+<li>Used in Compilers & Calculators<br>
+<ul>
+<li>Many programming languages convert infix expressions into postfix before solving them.</li>
+</ul>
+</li>
+</ol>
 </p>
-Q4: Conclusion ?
-=======
 <BR>
-Q4: Conclusion ?<BR>
->>>>>>> b0dc045247dedb10a5fbf1661abcaf05dba44195
-Ans: Postfix notation (Reverse Polish Notation) is a simple and efficient way to write and solve mathematical expressions. Unlike infix notation, it doesn’t need parentheses or rules for operator precedence because the order of operations is always clear. This makes it easier for computers and calculators to process.
+<p>Some scientific calculators (like HP calculators) use postfix notation because it's simpler to process.</p>
+<h1>Conclusion</h1>
+<BR>
+<p>Postfix notation (Reverse Polish Notation) is a simple and efficient way to write and solve mathematical expressions. Unlike infix notation, it doesn’t need parentheses or rules for operator precedence because the order of operations is always clear. This makes it easier for computers and calculators to process.
 It’s commonly used in programming, compilers, and embedded systems because it’s faster and avoids confusion. While humans may find infix notation easier to read, postfix notation is better for machines because it works with stacks, which are simple to use for calculations.
-Overall, postfix notation helps make calculations faster and simpler, especially for computers.
-<BR>
-====================THANKYOU====================
+Overall, postfix notation helps make calculations faster and simpler, especially for computers.</p>
+<p>====================THANKYOU====================</p>
