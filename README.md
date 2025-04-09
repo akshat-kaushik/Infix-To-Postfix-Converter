@@ -32,7 +32,6 @@ Postfix: A B + C *</li>
 <ul>
 <li>Computers can evaluate postfix expressions easily using a stack.</li>
 <li>No need for complex rules about operator precedence.</li>
-
 <li>Example (Step-by-Step Stack Evaluation):</li>
 <ul>
 <li>Expression: 2 3 + 4 *</li>
@@ -43,7 +42,6 @@ Postfix: A B + C *</li>
 <li>Step 5: Apply '*' → (5 * 4 = 20), push 20</li>
 <li>Result: 20</li>
 </ul>
-
 </ul>
 </li>
 <li>No Confusion in Solving Equations<br> 
