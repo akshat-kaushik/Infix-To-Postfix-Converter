@@ -1,4 +1,4 @@
-<h1>INFIX-TO-POSTFIX-CONVERTOR</h1>
+<h1>INFIX-TO-POSTFIX-CONVERTER</h1>
 <BR>
 <p>This is a program to convert infix notation to postfix.</p>
 <BR>
